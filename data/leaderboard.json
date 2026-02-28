@@ -1,0 +1,24 @@
+{
+  "entries": [
+    {
+      "modelId": "claude",
+      "modelName": "Claude (Anthropic)",
+      "wins": 0,
+      "losses": 0,
+      "ties": 1,
+      "harmCount": 0,
+      "totalVotes": 1
+    },
+    {
+      "modelId": "gpt",
+      "modelName": "GPT (OpenAI)",
+      "wins": 0,
+      "losses": 0,
+      "ties": 1,
+      "harmCount": 0,
+      "totalVotes": 1
+    }
+  ],
+  "totalGames": 1,
+  "lastUpdated": "2026-02-28T11:31:59.819Z"
+}
